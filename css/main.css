@@ -1,0 +1,58 @@
+
+#input {
+        width: 344px;
+        height: 55px;
+        left: 230px;
+        top: 459px;
+        background: white;
+        margin-left: 50px;
+      }
+
+      #input_2 {
+              width: 344px;
+              height: 40px;
+              left: 230px;
+              top: 459px;
+              background: #3B5998;
+              margin-left: 50px;
+            }
+
+      #input_submit_button {
+              background: white;
+              color: #3B5998;
+              width: 344px;
+              height: 55px;
+            }
+
+#login {
+        width: 690px;
+        height: 592px;
+        background: #3B5998;
+        border-radius: 5px;
+}
+
+#injira {
+        width: 197px;
+        height: 30px;
+        font-size: 24px;
+        color: #FFFFFF;
+        font-family: Montserrat;
+        margin-left: 50px;
+        }
+
+#logo {
+        width: 300px;
+        height: 79px;
+        margin-left: 50px;
+        margin-top: 50px;
+}
+
+#button {
+        color: #3B5998;
+        background-color: white;
+        width: 350px;
+        height: 55px;
+        font-family: Montserrat;
+        font-size: 24px;
+        margin-left: 50px;
+}
